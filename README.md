@@ -11,7 +11,9 @@
                 
                 This tool is not like any other wordlist : 
                           
-                          You type id and give you possible pass for user .Ex id = john.1.1, passwords = "161616jj", "121212jo"                                             ,"12345678ja","134134jj","jjjooohhh" ....
+                          You type id and give you possible pass for user .Ex id = john.1.1, 
+                          
+                                passwords = "161616jj","121212jo","12345678ja","134134jj","jjjooohhh" ....
                                 
                               
                        
